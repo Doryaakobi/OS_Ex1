@@ -1,0 +1,2 @@
+hello from main 1_2
++++ exited (status 0) +++

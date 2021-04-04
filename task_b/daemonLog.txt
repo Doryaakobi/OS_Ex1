@@ -1,0 +1,42 @@
+Apr  4 17:05:19 dor-VirtualBox log.txt[14415]: daemon started..
+Apr  4 17:05:20 dor-VirtualBox log.txt[14415]: doing something..
+Apr  4 17:05:21 dor-VirtualBox log.txt[14415]: work is done..
+Apr  4 18:28:23 dor-VirtualBox log.txt[15611]: daemon started..
+Apr  4 18:28:24 dor-VirtualBox log.txt[15611]: doing something..
+Apr  4 18:28:25 dor-VirtualBox log.txt[15611]: work is done..
+Apr  4 20:30:37 dor-VirtualBox log.txt[19216]: daemon started..
+Apr  4 20:30:38 dor-VirtualBox log.txt[19216]: doing something..
+Apr  4 20:30:39 dor-VirtualBox log.txt[19216]: work is done..
+Apr  4 20:30:56 dor-VirtualBox log.txt[19220]: daemon started..
+Apr  4 20:30:57 dor-VirtualBox log.txt[19220]: doing something..
+Apr  4 20:30:58 dor-VirtualBox log.txt[19220]: work is done..
+Apr  4 20:30:58 dor-VirtualBox log.txt[19222]: daemon started..
+Apr  4 20:30:59 dor-VirtualBox log.txt[19224]: daemon started..
+Apr  4 20:30:59 dor-VirtualBox log.txt[19222]: doing something..
+Apr  4 20:30:59 dor-VirtualBox log.txt[19226]: daemon started..
+Apr  4 20:31:00 dor-VirtualBox log.txt[19224]: doing something..
+Apr  4 20:31:00 dor-VirtualBox log.txt[19222]: work is done..
+Apr  4 20:31:00 dor-VirtualBox log.txt[19228]: daemon started..
+Apr  4 20:31:00 dor-VirtualBox log.txt[19226]: doing something..
+Apr  4 20:31:00 dor-VirtualBox log.txt[19230]: daemon started..
+Apr  4 20:31:01 dor-VirtualBox log.txt[19224]: work is done..
+Apr  4 20:31:01 dor-VirtualBox log.txt[19228]: doing something..
+Apr  4 20:31:01 dor-VirtualBox log.txt[19232]: daemon started..
+Apr  4 20:31:01 dor-VirtualBox log.txt[19226]: work is done..
+Apr  4 20:31:01 dor-VirtualBox log.txt[19230]: doing something..
+Apr  4 20:31:02 dor-VirtualBox log.txt[19228]: work is done..
+Apr  4 20:31:02 dor-VirtualBox log.txt[19232]: doing something..
+Apr  4 20:31:02 dor-VirtualBox log.txt[19230]: work is done..
+Apr  4 20:31:03 dor-VirtualBox log.txt[19232]: work is done..
+Apr  4 20:31:05 dor-VirtualBox log.txt[19238]: daemon started..
+Apr  4 20:31:06 dor-VirtualBox log.txt[19238]: doing something..
+Apr  4 20:31:07 dor-VirtualBox log.txt[19238]: work is done..
+Apr  4 20:32:26 dor-VirtualBox log.txt[19250]: daemon started..
+Apr  4 20:32:27 dor-VirtualBox log.txt[19250]: doing something..
+Apr  4 20:32:28 dor-VirtualBox log.txt[19250]: work is done..
+Apr  4 20:36:10 dor-VirtualBox log.txt[19436]: daemon started..
+Apr  4 20:36:11 dor-VirtualBox log.txt[19436]: doing something..
+Apr  4 20:36:12 dor-VirtualBox log.txt[19436]: work is done..
+Apr  4 20:37:25 dor-VirtualBox log.txt[19504]: daemon started..
+Apr  4 20:37:26 dor-VirtualBox log.txt[19504]: doing something..
+Apr  4 20:37:27 dor-VirtualBox log.txt[19504]: work is done..
